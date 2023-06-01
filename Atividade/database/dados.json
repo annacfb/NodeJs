@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "nome": "Anna",
+    "sobrenome": "Claudia",
+    "telefone": 98541436,
+    "endereco": "Thereza Lopes",
+    "cidade": "Curitiba",
+    "estado": "Prana",
+    "status": true
+},
+{
+    "id": 2,
+    "nome": "Layne",
+    "sobrenome": "Stanley",
+    "telefone": 89541234,
+    "endereco": "Heaven",
+    "cidade": "Paradise",
+    "estado": "Yes",
+    "status": false
+}]
